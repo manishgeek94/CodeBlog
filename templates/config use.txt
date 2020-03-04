@@ -1,0 +1,2 @@
+//config we create so we can randomly create input here and pass where ever it's required'
+//it makes page more dynamic and helps in sending data from a simple templating process

@@ -1,0 +1,23 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codethebest",
+    "prod_uri": "mysql://root:@prodhost/codethebest",
+    "fb_url": "https://facebook.com/",
+    "tw_url": "https://twitter.com/",
+    "git_url": "https://github.com/",
+    "blog_name": "Code and Blog",
+    "blog_tag": "Believe in Code and see the change",
+    "gmail-user": "cutemanish786@gmail.com",
+    "gmail-pass": "Manraj9449  ",
+    "about_text": "Hi I am Manish and I am an blogger and daily I upload some up to  dated facts on figure on random things",
+    "no_of_posts": 1,
+    "login_image":"sign.svg",
+    "admin_user":"Manish",
+    "admin_password": "subscribenow",
+    "upload_location":"C:\\Users\\ManishKumar\\Desktop\\Flask\\static"
+  }
+
+}
